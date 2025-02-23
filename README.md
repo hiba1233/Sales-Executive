@@ -1,3 +1,7 @@
+👉 Tracks sales data, manages leads, and generates reports.
+👉 Simplifies sales processes and improves performance with Excel.
+
+
 **Dashboard👇
 
 #salesreports |  #salesreporting | #businessreports | #dataanalysis  | #salesexecutiveproject | #datavisualization
